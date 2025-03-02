@@ -1,0 +1,28 @@
+/* Most general styling at the top, gets more specfic*/
+
+/* Asterisk wildcard selector to override default style */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* header */
+header  {
+    background-color: lightcoral;
+}
+
+/* main content */
+main  {
+    background-color: lightblue;
+}
+
+/* footer */
+footer  {
+    background-color: orange;
+}
+
+
+
+
